@@ -1,0 +1,6 @@
+{
+  "name": "QuizForge AI",
+  "description": "Turn Any PDF into Smart MCQs & Quizzes. AI-powered educational quiz generator, question bank builder, and printable exam paper maker from PDF study materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
